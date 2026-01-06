@@ -2,9 +2,13 @@
 ![Profile Pic](Profile1.jpg)
 
 > "Systems don't build themselves. Problems don't debug themselves. I ship solutions, not theories."
+> Missions and ambitions are what my life is for. The only constant is greater missions, and i choose to execute them , not watch them happen
+> I don't wait for perfect conditions. I will build in chaos—and systems emerge if i have to.
+> I choose complex systems—not because they're documented, but because they demand innovation.
+> Systems worth building don't come with manuals. I write them as I ship
 
 ## About Me
-I'm Phong D. Lam (english name: Fredrick Lam), engineering systems that work in the real world—from autonomous robots navigating chaos to AI detecting crop diseases in Vietnamese rice fields.
+I'm Phong D. Lam (or Fredrick Lam), engineering systems that work in the real world—from autonomous robots navigating chaos to AI detecting crop diseases in Vietnamese rice fields.
 
 **Current Mission:** Building agricultural AI that serves 22M farmers. **Next Mission:** Immersive Software Engineering at JYU, 
 
