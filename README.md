@@ -1,5 +1,5 @@
 # Application Portfolio
-![Profile Pic](Media/profile.jpg)
+![Profile Pic](profile.jpg)
 
 > "Systems don't build themselves. Problems don't debug themselves. I ship solutions, not theories."
 
